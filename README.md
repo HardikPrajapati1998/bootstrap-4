@@ -3,7 +3,7 @@ bootstrap 4 templates
 
 # start project
 
-### opne index.html
+### opne index1.html
 
 ### header
 ![Alt text](./image/1.PNG "Optional Title")
