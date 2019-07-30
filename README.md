@@ -6,12 +6,12 @@ bootstrap 4 templates
 ### opne index.html
 
 ### header
-![Alt text](./image/1.png "Optional Title")
+![Alt text](./image/1.PNG "Optional Title")
 
 ### content
 
-![Alt text](./image/2.png "Optional Title")
+![Alt text](./image/2.PNG "Optional Title")
 
 ### footer
 
-![Alt text](./image/3.png "Optional Title")
+![Alt text](./image/3.PNG "Optional Title")
